@@ -1,0 +1,81 @@
+.navbar{
+  border-bottom: 1px solid rgb(199, 199, 199);
+}
+.btn{
+  border-radius: 0px;
+}
+#button{
+  margin-left: 10px;
+  color: white;
+}
+#button_1{
+  color: black;
+}
+#button_1:hover{
+  background-color: white;
+}
+.main{
+  margin-top: 115px;
+}
+.fs_tx{
+  margin-bottom: 30px;
+}
+.but_block{
+  margin-top: 20px;
+}
+.section{
+  background-color: #FF9C7D;
+  margin-top: 200px;
+  padding-top: 90px;
+}
+.brand_3{
+  margin-top: 35px;
+}
+.brand_4{
+  margin-top: 10px;
+}
+.brand_5{
+  margin-top: 15px;
+}
+.brand_6{
+  margin-top: 25px;
+}
+#brands{
+  margin-top: 30px;
+}
+a{
+  color: black;
+  text-decoration: none;
+  font-weight: 600;
+}
+.th_tx{
+  margin-top: 130px;
+}
+.sec_1{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.fo_tx{
+  margin-top: 130px;
+}
+.sec_3{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.fi_tx{
+  margin-top: 130px;
+}
+.sec_4{
+  background-color: #FFF8E4;
+  padding-top: 50px;
+}
+.some_1{
+  margin-top: 50px;
+}
+.navbar{
+  overflow: hidden;
+    background-color: #333;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
